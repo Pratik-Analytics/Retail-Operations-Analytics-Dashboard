@@ -42,7 +42,7 @@ The main goal of this project was to create an interactive dashboard that helps 
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard_Preview](dashboard_preview.png)
 
 ---
 
